@@ -1,8 +1,12 @@
 # Hospital_Management_System
-## Created by
+## Contributors
 1.Damriya Jay Harsingbhai
 
 2.Harendra Singh
+
+Co-authored-by: Damriya Jay Harsingbhai <djay.harsingbhai.mat24@itbhu.ac.in>
+
+Co-authored-by: Harendra Pal Singh <harendrapal.singh.mat24@itbhu.ac.in>
 # Hospital Managment System
 
 A Hospital Management System (HMS) is a software solution designed to automate, streamline, and manage various administrative, clinical, and operational processes in a healthcare facility. It integrates multiple functions into a single platform to improve efficiency, reduce errors, and enhance patient care.
